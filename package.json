@@ -9,20 +9,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Sumit23199702/Project_4_URL_Shortner.git"
+    "url": "git+https://github.com/tejasvifast/Project4-UrlShorten.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Sumit23199702/Project_4_URL_Shortner/issues"
+    "url": "https://github.com/tejasvifast/Project4-UrlShorten/issues"
   },
-  "homepage": "https://github.com/Sumit23199702/Project_4_URL_Shortner#readme",
+  "homepage": "https://github.com/tejasvifast/Project4-UrlShorten#readme",
   "dependencies": {
     "body-parser": "^1.20.0",
     "express": "^4.18.1",
     "mongoose": "^6.3.3",
     "nodemon": "^2.0.16",
+    "redis": "^3.1.2",
     "shortid": "^2.2.16"
   }
 }
